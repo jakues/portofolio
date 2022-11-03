@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../jakues.github.io"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jakues.github.io"
+	}
+}
